@@ -1,0 +1,41 @@
+C:\Users\Steven\Documents\Visual Studio 2015\Projects\Programacion Orientado a Objetos\Objetos\Juegas_Puzlee_Final!!!\Juegas_Puzlee_Final!!!\bin\Debug\Juegas_Puzlee_Final!!!.exe.config
+C:\Users\Steven\Documents\Visual Studio 2015\Projects\Programacion Orientado a Objetos\Objetos\Juegas_Puzlee_Final!!!\Juegas_Puzlee_Final!!!\bin\Debug\Juegas_Puzlee_Final!!!.exe
+C:\Users\Steven\Documents\Visual Studio 2015\Projects\Programacion Orientado a Objetos\Objetos\Juegas_Puzlee_Final!!!\Juegas_Puzlee_Final!!!\bin\Debug\Juegas_Puzlee_Final!!!.pdb
+C:\Users\Steven\Documents\Visual Studio 2015\Projects\Programacion Orientado a Objetos\Objetos\Juegas_Puzlee_Final!!!\Juegas_Puzlee_Final!!!\obj\Debug\Juegas_Puzlee_Final!!!.csprojResolveAssemblyReference.cache
+C:\Users\Steven\Documents\Visual Studio 2015\Projects\Programacion Orientado a Objetos\Objetos\Juegas_Puzlee_Final!!!\Juegas_Puzlee_Final!!!\obj\Debug\Juegas_Puzlee_Final___.Form1.resources
+C:\Users\Steven\Documents\Visual Studio 2015\Projects\Programacion Orientado a Objetos\Objetos\Juegas_Puzlee_Final!!!\Juegas_Puzlee_Final!!!\obj\Debug\Juegas_Puzlee_Final___.Properties.Resources.resources
+C:\Users\Steven\Documents\Visual Studio 2015\Projects\Programacion Orientado a Objetos\Objetos\Juegas_Puzlee_Final!!!\Juegas_Puzlee_Final!!!\obj\Debug\Juegas_Puzlee_Final!!!.csproj.GenerateResource.Cache
+C:\Users\Steven\Documents\Visual Studio 2015\Projects\Programacion Orientado a Objetos\Objetos\Juegas_Puzlee_Final!!!\Juegas_Puzlee_Final!!!\obj\Debug\Juegas_Puzlee_Final!!!.exe
+C:\Users\Steven\Documents\Visual Studio 2015\Projects\Programacion Orientado a Objetos\Objetos\Juegas_Puzlee_Final!!!\Juegas_Puzlee_Final!!!\obj\Debug\Juegas_Puzlee_Final!!!.pdb
+C:\Users\computec\Desktop\Juegas_Puzlee_Final!!!\Juegas_Puzlee_Final!!!\bin\Debug\Juegas_Puzlee_Final!!!.exe.config
+C:\Users\computec\Desktop\Juegas_Puzlee_Final!!!\Juegas_Puzlee_Final!!!\obj\Debug\Juegas_Puzlee_Final!!!.exe
+C:\Users\computec\Desktop\Juegas_Puzlee_Final!!!\Juegas_Puzlee_Final!!!\obj\Debug\Juegas_Puzlee_Final!!!.pdb
+C:\Users\computec\Desktop\Juegas_Puzlee_Final!!!\Juegas_Puzlee_Final!!!\bin\Debug\Juegas_Puzlee_Final!!!.exe
+C:\Users\computec\Desktop\Juegas_Puzlee_Final!!!\Juegas_Puzlee_Final!!!\bin\Debug\Juegas_Puzlee_Final!!!.pdb
+C:\Users\computec\Desktop\Juegas_Puzlee_Final!!!\Juegas_Puzlee_Final!!!\obj\Debug\Juegas_Puzlee_Final!!!.csprojResolveAssemblyReference.cache
+C:\Users\computec\Desktop\Juegas_Puzlee_Final!!!\Juegas_Puzlee_Final!!!\obj\Debug\Juegas_Puzlee_Final___.Form1.resources
+C:\Users\computec\Desktop\Juegas_Puzlee_Final!!!\Juegas_Puzlee_Final!!!\obj\Debug\Juegas_Puzlee_Final___.Properties.Resources.resources
+C:\Users\computec\Desktop\Juegas_Puzlee_Final!!!\Juegas_Puzlee_Final!!!\obj\Debug\Juegas_Puzlee_Final!!!.csproj.GenerateResource.Cache
+C:\Users\computec\Documents\Visual Studio 2012\Projects Gualpa\Juegas_Puzlee_Final!!!\Juegas_Puzlee_Final!!!\bin\Debug\Juegas_Puzlee_Final!!!.exe.config
+C:\Users\computec\Documents\Visual Studio 2012\Projects Gualpa\Juegas_Puzlee_Final!!!\Juegas_Puzlee_Final!!!\obj\Debug\Juegas_Puzlee_Final!!!.exe
+C:\Users\computec\Documents\Visual Studio 2012\Projects Gualpa\Juegas_Puzlee_Final!!!\Juegas_Puzlee_Final!!!\obj\Debug\Juegas_Puzlee_Final!!!.pdb
+C:\7. Projectos\Projects Gualpa\Juegas_Puzlee_Final!!!\Juegas_Puzlee_Final!!!\bin\Debug\Juegas_Puzlee_Final!!!.exe.config
+C:\7. Projectos\Projects Gualpa\Juegas_Puzlee_Final!!!\Juegas_Puzlee_Final!!!\obj\Debug\Juegas_Puzlee_Final!!!.exe
+C:\7. Projectos\Projects Gualpa\Juegas_Puzlee_Final!!!\Juegas_Puzlee_Final!!!\obj\Debug\Juegas_Puzlee_Final!!!.pdb
+C:\7. Projectos\Projects Gualpa\Juegas_Puzlee_Final!!!\Juegas_Puzlee_Final!!!\bin\Debug\Juegas_Puzlee_Final!!!.exe
+C:\7. Projectos\Projects Gualpa\Juegas_Puzlee_Final!!!\Juegas_Puzlee_Final!!!\bin\Debug\Juegas_Puzlee_Final!!!.pdb
+C:\7. Projectos\Projects Gualpa\Juegas_Puzlee_Final!!!\Juegas_Puzlee_Final!!!\obj\Debug\Juegas_Puzlee_Final!!!.csprojResolveAssemblyReference.cache
+C:\7. Projectos\Projects Gualpa\Juegas_Puzlee_Final!!!\Juegas_Puzlee_Final!!!\obj\Debug\Juegas_Puzlee_Final___.Form1.resources
+C:\7. Projectos\Projects Gualpa\Juegas_Puzlee_Final!!!\Juegas_Puzlee_Final!!!\obj\Debug\Juegas_Puzlee_Final___.Properties.Resources.resources
+C:\7. Projectos\Projects Gualpa\Juegas_Puzlee_Final!!!\Juegas_Puzlee_Final!!!\obj\Debug\Juegas_Puzlee_Final!!!.csproj.GenerateResource.Cache
+C:\Users\Steve\Downloads\Projects Gualpa\Projects Gualpa\Juegas_Puzlee_Final!!!\Juegas_Puzlee_Final!!!\bin\Debug\Juegas_Puzlee_Final!!!.exe.config
+C:\Users\Steve\Downloads\Projects Gualpa\Projects Gualpa\Juegas_Puzlee_Final!!!\Juegas_Puzlee_Final!!!\bin\Debug\Juegas_Puzlee_Final!!!.exe
+C:\Users\Steve\Downloads\Projects Gualpa\Projects Gualpa\Juegas_Puzlee_Final!!!\Juegas_Puzlee_Final!!!\bin\Debug\Juegas_Puzlee_Final!!!.pdb
+C:\Users\Steve\Downloads\Projects Gualpa\Projects Gualpa\Juegas_Puzlee_Final!!!\Juegas_Puzlee_Final!!!\obj\Debug\Juegas_Puzlee_Final!!!.csproj.AssemblyReference.cache
+C:\Users\Steve\Downloads\Projects Gualpa\Projects Gualpa\Juegas_Puzlee_Final!!!\Juegas_Puzlee_Final!!!\obj\Debug\Juegas_Puzlee_Final!!!.csproj.SuggestedBindingRedirects.cache
+C:\Users\Steve\Downloads\Projects Gualpa\Projects Gualpa\Juegas_Puzlee_Final!!!\Juegas_Puzlee_Final!!!\obj\Debug\Juegas_Puzlee_Final___.Form1.resources
+C:\Users\Steve\Downloads\Projects Gualpa\Projects Gualpa\Juegas_Puzlee_Final!!!\Juegas_Puzlee_Final!!!\obj\Debug\Juegas_Puzlee_Final___.Properties.Resources.resources
+C:\Users\Steve\Downloads\Projects Gualpa\Projects Gualpa\Juegas_Puzlee_Final!!!\Juegas_Puzlee_Final!!!\obj\Debug\Juegas_Puzlee_Final!!!.csproj.GenerateResource.cache
+C:\Users\Steve\Downloads\Projects Gualpa\Projects Gualpa\Juegas_Puzlee_Final!!!\Juegas_Puzlee_Final!!!\obj\Debug\Juegas_Puzlee_Final!!!.csproj.CoreCompileInputs.cache
+C:\Users\Steve\Downloads\Projects Gualpa\Projects Gualpa\Juegas_Puzlee_Final!!!\Juegas_Puzlee_Final!!!\obj\Debug\Juegas_Puzlee_Final!!!.exe
+C:\Users\Steve\Downloads\Projects Gualpa\Projects Gualpa\Juegas_Puzlee_Final!!!\Juegas_Puzlee_Final!!!\obj\Debug\Juegas_Puzlee_Final!!!.pdb
